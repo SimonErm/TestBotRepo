@@ -15,4 +15,4 @@ about: Ask your question
 <!--ask your question-->
 
 **Tags**
-<!--add some tags related to your question-->
+<!--add some related comma seperated tags to your question-->
