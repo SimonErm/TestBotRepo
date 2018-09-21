@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 
 ---
-
+# Bug Report
 **To Do First**
 - [ ] Did you try latest release?
 - [ ] Did you try master?
@@ -22,12 +22,12 @@ about: Create a report to help us improve
 
 **Versions**
 <!--Please add the used versions/branches or leave blank and uncomment the optionals if used-->
-Android:
-iOS:
-react-native-camera:
-react-native:
-react:
-<!--react-navigation:-->
+- Android:
+- iOS:
+- react-native-camera:
+- react-native:
+- react:
+<!---react-navigation:-->
 
 **Description/Current Behaviour**
 <!--place your bug description below-->
