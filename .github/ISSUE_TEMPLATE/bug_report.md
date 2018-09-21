@@ -3,6 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 
 ---
+
 # Bug Report
 **To Do First**
 - [ ] Did you try latest release?
