@@ -4,33 +4,39 @@ about: Create a report to help us improve
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**To Do First**
+- [ ] Did you try latest release?
+- [ ] Did you try master?
+- [ ] Did you look for existing matching issues?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Related Modules**
+<!--Uncomment the related ones-->
+<!--RNCamera-->
+<!--FaceDetector-->
+<!--RCTCamera(deprecated)-->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Platforms**
+<!--Uncomment the related ones-->
+<!--Android-->
+<!--iOS-->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Versions**
+<!--Please add the used versions/branches or leave blank and uncomment the optionals if used-->
+Android:
+iOS:
+react-native-camera:
+react-native:
+react:
+<!--react-navigation:-->
 
-**Plattforms(please complete the following information):**
-- []iOS
-- []Android
+**Description/Current Behaviour**
+<!--place your bug description below-->
 
-**Environment (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - react-native [e.g. 22]
- - react-native-camera
+**Expected Behaviour**
+<!--place your expected behaviour below-->
 
-**Additional context**
-Add any other context about the problem here.
+**Steps to Reproduce**
+<!--describe how to produce the error below-->
 
-**Tag**
+**Additionals**
+<!--place screenshots/suggestions and other additional infos below-->
